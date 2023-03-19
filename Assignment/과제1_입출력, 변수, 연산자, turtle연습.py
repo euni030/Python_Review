@@ -12,7 +12,7 @@ import turtle       # turtle 모듈 import
 t = turtle.Pen()                # 펜 객체 생성
 t.fillcolor(색깔)
 t.begin_fill()  #터틀의 색으로 도형 내부를 칠하려면 begin_fill()과 end_fill()을 짝 맞춰 실행해야함
-
+100
 t.forward(가로); t.right(90)     # 사각형 그리기
 t.forward(세로); t.right(90)
 t.forward(가로); t.right(90)
