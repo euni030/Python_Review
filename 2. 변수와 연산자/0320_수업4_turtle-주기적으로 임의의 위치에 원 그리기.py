@@ -1,4 +1,4 @@
-#여러움 ㅠㅠ
+#어러움 ㅠㅠ
 
 
 import turtle
