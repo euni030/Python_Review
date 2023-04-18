@@ -14,8 +14,8 @@ def SumOfDivisor(n):
     
     
     
-print("6  의	약수의	합	:" , SumOfDivisor(6))
-print("6  의	진약수의	합	:" , SumOfProperDivisor(6))
+print("6  의 약수의	합	:" , SumOfDivisor(6))
+print("6  의 진약수의	합	:" , SumOfProperDivisor(6))
 print("9 의	약수의	합	:"  , SumOfDivisor(9))
 print("9 의	진약수의 	합	:" , SumOfProperDivisor(9))
  
