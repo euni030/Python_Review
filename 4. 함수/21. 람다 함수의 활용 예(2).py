@@ -1,6 +1,6 @@
 # x부터 y까지 합산한 결과 반환
 def Sum(x, y):
-    return sum(range(x, y + 1))
+    return Sum(range(x, y + 1))
 
 for i in [1, 2]:
     for j in [10, 20]:
